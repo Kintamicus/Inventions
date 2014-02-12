@@ -1,0 +1,16 @@
+[
+{
+  "modid": "invention",
+  "name": "Invention",
+  "description": "Opening the world to it's fullest inventions",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.kintas.com",
+  "updateUrl": "http://invention.kintas.com/update",
+  "authors": "Kintamicus",
+  "credits": "Mojang, MCP, Forge, and FML guys/gals, for being awesome.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
