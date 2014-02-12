@@ -1,4 +1,4 @@
-Inventions - Steve, Invent your own things...
+Inventions - Steve, Be original for once
 ==========
 
 Don't worry, it's not too complex. 
