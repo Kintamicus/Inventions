@@ -8,5 +8,4 @@ public class InventionItem extends Item {
 	public InventionItem() {
 		setCreativeTab(InventionTabs.inventionItems);
 	}
- 
 }

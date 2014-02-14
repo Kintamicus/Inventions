@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public interface ILogBook {
-	List<ILogBookEntry> entries = new ArrayList<ILogBookEntry>();
+	List<ILogBookTab> entries = new ArrayList<ILogBookTab>();
 	
-	public void addEntry(ILogBookEntry entry);
+	public void addEntry(ILogBookTab entry);
 	public boolean hasTechnique(ITechnique technique);
 
 }
