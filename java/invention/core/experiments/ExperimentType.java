@@ -1,4 +1,4 @@
-package invention.api.experiments;
+package invention.core.experiments;
 
 public enum ExperimentType {
 	PlayerAction,

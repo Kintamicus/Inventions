@@ -1,7 +1,7 @@
 package invention.core;
 
 import invention.core.items.LogBook;
-import invention.core.items.Stopwatch;
+import invention.core.items.Camera;
 import invention.core.items.WritingUtensil;
 import net.minecraft.item.Item;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -48,7 +48,7 @@ public class Invention {
 	    
 	    public void registerItems() {
 	    	logbook = new LogBook();
-	    	stopwatch = new Stopwatch();
+	    	stopwatch = new Camera();
 	    	pencil = new WritingUtensil("Pencil", 30);
 	    	pen = new WritingUtensil("Pen", 30);
 	    }

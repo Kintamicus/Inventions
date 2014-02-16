@@ -1,0 +1,22 @@
+Run down of Inventions:
+
+	Goal - 
+		Experimenting and discovering techniques that can eventually be combined to create a new invention
+	
+	Techniques -
+		Techniques are the currency in this mod. They are static and can be shared with others using textbooks and
+		handwritten notes. 
+			# Once a technique is discovered, it must be written down or else it will slowly degrade
+			Techniques are discovered by analysing items and blocks
+		
+	Experiments - 
+		Experiments require Techniques and create more Techniques. 
+			# Experiments are always conducted on a TestBed multiblock 1x1, 3x3, 5x5, 7x7, or 9x9
+				Experiments are written down in a log book, at the cost of XP it will be given
+					- Terminal Velocity
+					- Controlled Speed
+					- Softening 
+					- Lust for Blood
+			# TestBeds
+				Assortment of sensors are scattered around a TestBed on sensor racks. Each sensor watches a player on
+				a testbed surface and a sensor controller outputs techniques learned
